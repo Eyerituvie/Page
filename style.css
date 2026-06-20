@@ -1,0 +1,39 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h2{
+    color: chocolate;
+}
+
+h3{
+    color: chartreuse;
+}
+
+h4{
+    color:coral ;
+}
+
+h5{
+    color: cornflowerblue;
+}
+
+h6{
+    color: crimson;
+}
+
+hr{
+    color: darkorange;
+}
+
+p{
+    color: fuchsia;
+}
+
+li{
+    color: black;
+}
